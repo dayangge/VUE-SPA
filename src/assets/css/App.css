@@ -1,0 +1,5 @@
+#app{
+  padding: 0 calc(50% - 210px);
+  display: block;
+  text-align: center;
+}

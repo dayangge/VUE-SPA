@@ -1,0 +1,10 @@
+.qui-btn{
+  width: 80px;
+  font-size: 18px;
+  height: 54px;
+  background-color: antiquewhite;
+  border-radius: 3px;
+}
+.qui-btn img{
+  width: 20px;
+}
